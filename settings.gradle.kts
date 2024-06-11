@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "nfsee_android"
+rootProject.name = "nfsee_android_git"
 include(":nfsee_android")
-include(":nfsee-backend")
+include(":nfsee_backend")

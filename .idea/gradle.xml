@@ -9,8 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/nfsee-backend" />
             <option value="$PROJECT_DIR$/nfsee_android" />
+            <option value="$PROJECT_DIR$/nfsee_backend" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
